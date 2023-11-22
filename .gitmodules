@@ -5,6 +5,9 @@
 [submodule "rapt"]
 	path = rapt
 	url = https://github.com/Yousuf28/rapt
+[submodule "sendigR"]
+	path = sendigR
+	url = https://github.com/phuse-org/sendigR
 [submodule "toxSummary"]
 	path = toxSummary
 	url = https://github.com/phuse-org/toxSummary
