@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/yousuf28/yousuf28.r-universe.dev
 	branch = HEAD
+[submodule "SENDsanitizer"]
+	path = SENDsanitizer
+	url = https://github.com/phuse-org/SENDsanitizer
 [submodule "rapt"]
 	path = rapt
 	url = https://github.com/Yousuf28/rapt
